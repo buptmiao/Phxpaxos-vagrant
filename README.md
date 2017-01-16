@@ -23,6 +23,6 @@ $ vagrant ssh
 
 $ cd /vagrant/phxpaxos
 ```
-And it is synced with $pwd/phxpaxos in host machine, you can look into in with your favorite editor and build your changes in VM.
+And it is synced with $pwd/phxpaxos in host machine, you can look into it with your favorite editor and build your changes in VM.
 
 #### Enjoy yourself!
