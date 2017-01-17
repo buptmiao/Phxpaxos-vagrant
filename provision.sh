@@ -55,9 +55,9 @@ cd $ROOT_DIR/plugin
 
 make && make install
 
-cd $ROOT_DIR/sample/phxecho; make
+cd $ROOT_DIR/sample/phxecho; make; mkdir -p log
 
-cd $ROOT_DIR/sample/phxelection; make
+cd $ROOT_DIR/sample/phxelection; make; mkdir -p log
 
 cd $ROOT_DIR
 

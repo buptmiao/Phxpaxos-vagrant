@@ -2,3 +2,5 @@ phxpaxos/*
 phxpaxos
 .vagrant/*
 .vagrant
+.cproject
+.project
